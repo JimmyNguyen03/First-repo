@@ -6,4 +6,5 @@ But after having the first lessons, I feel **Math Puzzle** is really good. It in
 * *Sherlock* (TV series base on *Sherlock Holmes novel*: https://en.wikipedia.org/wiki/Sherlock_(TV_series))
 * *Squid game* (This is a South Korean survival drama TV series streaming on Netflix. It became one of Netflix's most watched programs in several regional markets within a week: https://en.wikipedia.org/wiki/Squid_Game)
 * *Chess* (A game/sport use many logic: https://en.wikipedia.org/wiki/Chess)
-https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg/1200px-Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg.png
+![image](https://user-images.githubusercontent.com/91865638/135908985-d590a59d-1389-4145-9fc5-cb851c83b406.png)
+
