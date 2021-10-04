@@ -8,7 +8,7 @@ But after having the first lessons, I feel **Math Puzzle** is really good. It in
 * *Chess* (A game/sport use many logic: https://en.wikipedia.org/wiki/Chess)             
 ![Sudoku](https://user-images.githubusercontent.com/91865638/135909083-c0e27e44-eb9e-46ea-bf9b-22b530aca5f4.png)
 ![Sherlock](https://user-images.githubusercontent.com/91865638/135909148-050b2525-eb68-4d67-bff7-e92d84fc3c29.png)
-![Chess](https://user-images.githubusercontent.com/91865638/135909505-7d15441c-a398-4ae0-93a8-1ecf8babbaaa.png)
+![Chess](https://user-images.githubusercontent.com/91865638/135909613-929143bf-f017-42b0-92ed-6f167ccdb480.png)
 ![Squid game](https://user-images.githubusercontent.com/91865638/135909265-c197c237-98cc-465e-88cf-85b0c045c640.png)
 
 
